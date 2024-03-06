@@ -1,11 +1,11 @@
-# Thông tin cá nhân
+# THÔNG TIN CÁ NHÂN
 Nguyễn Tiền Phương
 Mã số sinh viên B2103447 <br/>
 Sinh viên Đại Học Cần Thơ Khóa 47
 Ngành Hệ Thống Thông Tin
 
-## Thông tin liên hệ
-Facebook : https://www.facebook.com/NguyenPhuong.Rio39
+## THÔNG TIN LIÊN HỆ
+Facebook : https://www.facebook.com/NguyenPhuong.Rio39 <br/>
 Số Điện Thoại : 09xxxxxxx0
 
 
