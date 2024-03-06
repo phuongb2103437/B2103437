@@ -1,7 +1,8 @@
 # THÔNG TIN CÁ NHÂN
 Nguyễn Tiền Phương
 Mã số sinh viên B2103447 <br/>
-Sinh viên Đại Học Cần Thơ Khóa 47
+Sinh viên Đại Học Cần Thơ Khóa 47 <br/>
+Trường Công Nghệ Thông Tin Và Truyền Thông <br/>
 Ngành Hệ Thống Thông Tin
 
 ## THÔNG TIN LIÊN HỆ
